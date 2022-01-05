@@ -1,13 +1,4 @@
-type: choice
-is_multiple_choice: true
-options:
-  - text: a
-  - text: b
-  - text: c
-  - text: d
-  - text: e
-message_correct: Congratulations!
-message_incorrect: Incorrect solution
+type: theory
 files:
   - name: src/Main.kt
     visible: true
@@ -18,6 +9,7 @@ files:
         // put your code here
       }
     learner_created: false
-feedback_link: https://hyperskill.org/learn/step/4446#comment
+feedback_link: https://hyperskill.org/learn/step/4515#comment
 status: Solved
 record: -1
+post_submission_on_open: true

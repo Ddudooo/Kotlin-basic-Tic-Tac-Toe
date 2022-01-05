@@ -4,12 +4,13 @@ files:
     visible: true
     text: |-
       fun main() {
+          val x = readLine().toBoolean() // read other values in the same way
           // write your code here
       }
     learner_created: false
-feedback_link: https://hyperskill.org/learn/step/15343#comment
+feedback_link: https://hyperskill.org/learn/step/12311#comment
 status: Solved
 feedback:
   message: <html>Correct solution</html>
-  time: Mon, 03 Jan 2022 13:14:50 UTC
+  time: Wed, 05 Jan 2022 12:50:34 UTC
 record: -1
