@@ -6,21 +6,8 @@ files:
     \ values in the same way\n    // write your code here\n\n}"
     learner_created: false
 feedback_link: https://hyperskill.org/learn/step/12312#comment
-status: Failed
+status: Solved
 feedback:
-  message: |
-    Failed test #3 of 6. Wrong answer
-
-    This is a sample test from the problem statement!
-
-    Test input:
-    false
-    false
-    true
-    Correct output:
-    false
-
-    Your code output:
-    true
-  time: Wed, 05 Jan 2022 13:05:22 UTC
+  message: <html>Correct solution</html>
+  time: Wed, 05 Jan 2022 13:08:46 UTC
 record: -1
